@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there! 👋 I'm Bala Sankar,
+🚀 Full Stack Web Developer
+I love building dynamic and user-friendly web applications. My enthusiasm for technology drives me to stay updated with the latest trends and tools. 
+
+# I'm always eager to:
+🌟 Explore new technologies
+🤝 Collaborate on exciting projects
+🛠️ Solve challenging problems
 
 
 ## 🌐 Socials:
